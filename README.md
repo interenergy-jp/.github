@@ -4,7 +4,7 @@
 
 Repositories>New Repository
 
-- Repository Nameは命名ルールあり（PJ番号頭3文字-年度2ケタ-任意のPJ名-内容
+- Repository Nameは命名ルールあり（PJ番号頭3文字-年度2ケタ-任意のPJ名-内容）
 
 ## リポジトリ設定
 
