@@ -159,7 +159,8 @@ work
 
 ```bash
 git remote -v
-git remote set-url origin git@github.com:interenergy-jp/リポジトリ名.git
+# URLは対象のものに書き換えること
+git remote set-url origin https://github.com/interenergy-jp/med-26-adee-fw.git
 git fetch origin --prune
 git branch -vv
 ```
