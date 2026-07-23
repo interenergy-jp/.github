@@ -13,7 +13,7 @@
 Claude Code 上で以下を一度実行すると利用できます（詳細は同リポジトリのREADME参照）。
 
 ```text
-/plugin marketplace add interenergy-jp/ie-agent-skill
+/plugin marketplace add interenergy-jp/ie-agent-skills
 /plugin install gh-ops@ie-agent-skills
 ```
 
